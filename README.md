@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Devang Agarwal 👋
 
-<!--
-**DevangAgarwal0203/DevangAgarwal0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business analytics and AI/ML student building hands-on projects in Python.
 
-Here are some ideas to get you started:
+## Tools I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & notebooks:** Python, Jupyter
+- **ML / data:** TensorFlow/Keras, scikit-learn, Pandas, NumPy
+- **Visualization & BI:** Matplotlib, Seaborn, Tableau
+
+## Projects
+
+- [Customer churn prediction with a neural network](https://github.com/DevangAgarwal0203/part-1-neural-network-analysis) – feed-forward network in TensorFlow/Keras, with analysis of class imbalance and overfitting
+- [CNN surface-defect classification](https://github.com/DevangAgarwal0203/part-2-cnn-computer-vision) – image classifier for normal, dent, scratch and stain surfaces
+- [NLP sentiment classification](https://github.com/DevangAgarwal0203/part-3-nlp-sequence-modeling) – TF-IDF / Bag-of-Words baselines compared with a Bidirectional LSTM
+- [Regression analysis of retail store sales](https://github.com/DevangAgarwal0203/devangagarwal_bitsom_ba_2511137_part3_regression_insights) – which factors drive monthly sales across 80 stores
